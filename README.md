@@ -65,9 +65,9 @@ Nocturne/
 
 ## Status & Development
 
-The project is currently in the active development phase. Code refactoring is underway to completely transition layout rendering to PySide6. Contributions, bug reports, and technical feedback are managed through the issue tracker.
+The project is currently frozen. Code refactoring is underway to completely transition layout rendering to PySide6.
 
-* **Issue Tracker**: [GitHub Issues](https://github.com/herochkanya/MusicPlayer)
-* **Maintainer**: Telegram [@This_username_is_already_taken_c](https://t.me/This_username_is_already_taken_c)
+* **GitHub**: [GitHub Issues](https://github.com/herochkanya/MusicPlayer)
+* **Telegram**: Telegram [@This_username_is_already_taken_c](https://t.me/This_username_is_already_taken_c)
 
 ![Banner](https://github.com/user-attachments/assets/3da8af2c-b376-454b-ae0a-dc0511637476) 
