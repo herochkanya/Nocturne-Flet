@@ -28,12 +28,6 @@ The core playback engine requires local FFmpeg binaries for media decoding.
 3. Locate `ffmpeg.exe` and `ffprobe.exe` inside the extracted `bin/` directory.
 4. Copy and paste both executables directly into the root `bin/` directory of this project (`Nocturne/bin/`).
 
-### 3. Execution
-Launch the application entry point:
-```bash
-python main.py
-```
-
 ---
 
 ## Status & Development
