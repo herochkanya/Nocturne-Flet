@@ -1,0 +1,16 @@
+### requirements.txt
+
+# Paste
+# pip install -r requirements.txt
+# to install the dependencies
+flet
+yt-dlp
+mutagen
+requests
+keyboard
+pynput
+
+sounddevice
+soundfile
+numpy
+scipy
