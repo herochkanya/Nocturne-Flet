@@ -4,16 +4,6 @@
 
 A desktop music player focused on modern layout management, offline listening, and integrated media downloading. Built with Python and Flet.
 
----
-
-## Features
-
-* **Local Library Management**: Automated track indexing with metadata and artwork rendering.
-* **Integrated Downloader**: Native support for asynchronous downloading via YouTube and SoundCloud URLs.
-* **Media Controls**: Background thread playback handling with loop modes, shuffling, and global hotkeys.
-
----
-
 ## Screenshots
 
 <p align="center">
@@ -24,10 +14,6 @@ A desktop music player focused on modern layout management, offline listening, a
 ---
 
 ## Installation & Setup
-
-### Environment Requirements
-* Python 3.10 or higher
-* Windows
 
 ### 1. Dependencies Installation
 Clone the repository and install the required core packages:
@@ -50,24 +36,11 @@ python main.py
 
 ---
 
-## Directory Structure
-
-```
-Nocturne/
-│
-├── bin/               # FFmpeg binaries and static resources
-├── core/              # Playback controller, database, and backend logic
-├── interface/         # PySide6 UI views and stylesheet configurations
-├── config.py          # Global application parameters
-├── main.py            # Application entry point
-└── requirements.txt 
-```
-
 ## Status & Development
 
 Project is frozen for refactoring to PySide6. Check out the 'Nocturne' repository on GitHub to see the PySide version. 
 
-* **GitHub**: [GitHub Issues](https://github.com/herochkanya/MusicPlayer)
-* **Telegram**: Telegram [@This_username_is_already_taken_c](https://t.me/This_username_is_already_taken_c)
+* **GitHub**: [herochkanya](https://github.com/herochkanya/MusicPlayer)
+* **Telegram**: [@This_username_is_already_taken_c](https://t.me/This_username_is_already_taken_c)
 
 ![Banner](https://github.com/user-attachments/assets/3da8af2c-b376-454b-ae0a-dc0511637476) 
