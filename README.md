@@ -65,7 +65,7 @@ Nocturne/
 
 ## Status & Development
 
-The project is currently frozen. Code refactoring is underway to completely transition layout rendering to PySide6.
+Project is frozen for refactoring to PySide6. Check out the 'Nocturne' repository on GitHub to see the PySide version. 
 
 * **GitHub**: [GitHub Issues](https://github.com/herochkanya/MusicPlayer)
 * **Telegram**: Telegram [@This_username_is_already_taken_c](https://t.me/This_username_is_already_taken_c)
