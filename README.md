@@ -34,7 +34,8 @@ The core playback engine requires local FFmpeg binaries for media decoding.
 
 Project is frozen for refactoring to PySide6. Check out the 'Nocturne' repository on GitHub to see the PySide version. 
 
-* **GitHub**: [herochkanya](https://github.com/herochkanya/MusicPlayer)
+* **GitHub**: [herochkanya](https://github.com/herochkanya)
+* **Old Proj.**: [MusicPlayer](https://github.com/herochkanya/MusicPlayer)
 * **Telegram**: [@This_username_is_already_taken_c](https://t.me/This_username_is_already_taken_c)
 
 ![Banner](https://github.com/user-attachments/assets/3da8af2c-b376-454b-ae0a-dc0511637476) 
